@@ -10,6 +10,10 @@ module.exports = {
         "bluenav1-educal": "#b8dde3",
         "graynav1-educal": "#6d6e75",
         "bluehomecard-educal": "#2b4eff",
+        "purplehomecard-educal": "#dd246e",
+        "violethomecard-educal": "#8007e6",
+        
+        "greenhomecard-educal": "#30a820",
         
 
         "yellow-educal": "#fc1",
