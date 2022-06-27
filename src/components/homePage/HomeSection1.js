@@ -46,6 +46,12 @@ export default function HomeSection1() {
           src="img/svgexport-10.png"
         />
       </div>
+      <div className="">
+          <img src="img/about.jpg" alt="image about" />
+         <div className="">
+          
+         </div>
+      </div>
     </div>
   );
 }
