@@ -40,11 +40,11 @@ export default function Navigation() {
       </section>
 
       {/* hero titre et photo */}
-      <hero className="hero-text-all-img bg-bluenav1-educal container mx-auto flex pt-4">
-        <div className="hero-text py-20 mb-96">
+      {/* <hero className="hero-text-all-img bg-bluenav1-educal container mx-auto flex pt-4">
+        <div className="hero-text py-20 mb-96 ">
           <p className="text-6xl font-bold">
             Launch your <br />
-            Own online learning <br />
+            Own <span className='relative z-20'>online</span>  learning <br />
             Platform
           </p>
           <p className="text-3xl pt-8 font-bold">
@@ -54,7 +54,7 @@ export default function Navigation() {
             2 passes (with access to all classes) for $240
           </p>
           <img
-            className="pr-96 mb-96"
+            className="pr-2 relative z-10 -top-44 left-32 "
             src="img/yellow-bg.png"
             alt="trait de feutre jaune"
           />
@@ -66,12 +66,12 @@ export default function Navigation() {
             alt="image de la fille qui souffle"
           />
           <img
-            className="z-30 relative top-72 "
+            className="z-30 relative top-60"
             src="img/hero-shape-purple.png"
             alt="tache violette"
           />
         </div>
-      </hero>
+      </hero> */}
     </header>
   );
 }

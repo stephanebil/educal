@@ -7,6 +7,7 @@ import Instructor from "./pages/Instructor";
 import Contact from "./pages/Contact";
 import Error from "./pages/Error";
 import Navigation from './components/Navigation';
+import Footer from './components/Footer';
 
 
 
@@ -21,7 +22,8 @@ export default function App() {
         <Route path="/instructor" element={<Instructor />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Error />} />
-      </Routes>
+      </Routes> 
+      <Footer />
     </Router>
   );
 }
