@@ -4,7 +4,7 @@ import HomeCard2 from './HomeCard2';
 export default function HomeSection2() {
   return (
     // wrapper Hommsection2
-    <div className="wrapper-homesection2 mb-60 bg-bluehomelight-educal p-28 mt-20 ">
+    <div className="wrapper-homesection2 mb-40 bg-bluehomelight-educal p-28 mt-20 ">
       <div className="homesection2-part1 container ">
         <h2 className="font-bold text-4xl text-left">
           Find The Right <br />
@@ -36,8 +36,8 @@ export default function HomeSection2() {
       </div>
 
       {/* section cards HomeCard2 */}
-      <div className="homesection2-part2 mt-20 justify-center">
-        <div className="container flex space-x-5 justify-center">
+      <div className="homesection2-part2 mt-8 justify-center">
+        <div className="container lg:flex space-x-5 justify-center">
           <HomeCard2 />
           <HomeCard2
             numberlesson="72"
@@ -67,7 +67,7 @@ export default function HomeSection2() {
           />
         </div>
 
-        <div className="mt-14 container flex space-x-5 justify-center">
+        <div className="mt-14 container lg:flex space-x-5 justify-center">
           <HomeCard2
             numberlesson="13"
             title="Creative writing through Storytelling"
