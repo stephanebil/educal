@@ -12,7 +12,11 @@ module.exports = {
         "bluehomecard-educal": "#2b4eff",
         "purplehomecard-educal": "#dd246e",
         "violethomecard-educal": "#8007e6",
-        
+        "bluehomelight-educal": "#edeef3",
+        "bluehomeletter-educal": "#0fa0dd",
+        "grayhomeletter-educal": "#6d6e75",
+        "orangehomeletter-educal": "#fa7919",
+
         "greenhomecard-educal": "#30a820",
         
 
