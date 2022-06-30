@@ -3,9 +3,9 @@ import React from 'react'
 export default function Footer() {
   return (
     <div className="mt-20 bg-bluehomelight-educal h-96 ">
-      <div className="flex justify-center justify-between container ">
+      <div className="flex justify-center justify-between container pt-40">
         {/* colonne1 avec logo */}
-        <div className="">
+        <div className="w-60">
           <img src="img/logo.png" alt="" className="" />
           <p className="">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto fuga
