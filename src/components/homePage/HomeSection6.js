@@ -3,7 +3,7 @@ import React from 'react'
 export default function HomeSection6() {
   return (
     // Wrapper HomeSection6
-    <div class=" mt-40 relative ">
+    <div className=" mt-40 relative ">
       {/* partie bground image et couleur bleue */}
       <div className=" bg-bluehomecard-educal2 relative z-10 h-full">
         <img
