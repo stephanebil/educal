@@ -7,7 +7,7 @@ import Instructor from "./pages/Instructor";
 import Contact from "./pages/Contact";
 import Error from "./pages/Error";
 import Navigation from './components/Navigation';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 
 
 
