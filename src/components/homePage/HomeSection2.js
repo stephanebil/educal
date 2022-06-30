@@ -3,7 +3,7 @@ import HomeCard2 from './HomeCard2';
 
 export default function HomeSection2() {
   return (
-    // wrapper Hommsection2
+    // wrapper Homesection2
     <div className="wrapper-homesection2 mb-40 bg-bluehomelight-educal p-28 mt-20 ">
       <div className="homesection2-part1 container ">
         <h2 className="font-bold text-4xl text-left">
